@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\ExemplosDateTime.exe
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\ExemplosDateTime.deps.json
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\ExemplosDateTime.runtimeconfig.json
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\ExemplosDateTime.dll
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\ExemplosDateTime.pdb
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ExemplosDateTime.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ExemplosDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ExemplosDateTime.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ExemplosDateTime.AssemblyInfo.cs
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ExemplosDateTime.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ExemplosDateTime.dll
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\refint\ExemplosDateTime.dll
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ExemplosDateTime.pdb
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ExemplosDateTime.genruntimeconfig.cache
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ref\ExemplosDateTime.dll

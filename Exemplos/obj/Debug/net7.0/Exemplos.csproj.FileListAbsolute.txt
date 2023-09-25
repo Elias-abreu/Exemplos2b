@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\Exemplos.exe
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\Exemplos.deps.json
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\Exemplos.runtimeconfig.json
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\Exemplos.dll
+C:\Users\elias\source\repos\Exemplos\Exemplos\bin\Debug\net7.0\Exemplos.pdb
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\Exemplos.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\Exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\Exemplos.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\Exemplos.AssemblyInfo.cs
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\Exemplos.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\Exemplos.dll
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\refint\Exemplos.dll
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\Exemplos.pdb
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\Exemplos.genruntimeconfig.cache
+C:\Users\elias\source\repos\Exemplos\Exemplos\obj\Debug\net7.0\ref\Exemplos.dll

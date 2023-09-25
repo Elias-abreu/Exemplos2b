@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\bin\Debug\net7.0\ExercicioHeranca.exe
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\bin\Debug\net7.0\ExercicioHeranca.deps.json
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\bin\Debug\net7.0\ExercicioHeranca.runtimeconfig.json
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\bin\Debug\net7.0\ExercicioHeranca.dll
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\bin\Debug\net7.0\ExercicioHeranca.pdb
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ExercicioHeranca.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ExercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ExercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ExercicioHeranca.AssemblyInfo.cs
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ExercicioHeranca.dll
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\refint\ExercicioHeranca.dll
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ExercicioHeranca.pdb
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ExercicioHeranca.genruntimeconfig.cache
+C:\Users\elias\source\repos\Exemplos\ExercicioHeranca\obj\Debug\net7.0\ref\ExercicioHeranca.dll
